@@ -1,5 +1,5 @@
 {
-  product:
+  "product":
 [{"id":1,"name":"Lapwing (unidentified)","category":"Orange"},
 {"id":2,"name":"Manatee","category":"Maroon"},
 {"id":3,"name":"Red-tailed hawk","category":"Maroon"},

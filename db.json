@@ -1,5 +1,3 @@
-{
-  "product":
 [{"id":1,"name":"Lapwing (unidentified)","category":"Orange"},
 {"id":2,"name":"Manatee","category":"Maroon"},
 {"id":3,"name":"Red-tailed hawk","category":"Maroon"},
@@ -25,4 +23,3 @@
 {"id":23,"name":"Bengal vulture","category":"Aquamarine"},
 {"id":24,"name":"Vicuna","category":"Pink"},
 {"id":25,"name":"Greater rhea","category":"Green"}]
-}

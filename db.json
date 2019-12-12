@@ -1,25 +1,15 @@
-[{"id":1,"name":"Lapwing (unidentified)","category":"Orange"},
-{"id":2,"name":"Manatee","category":"Maroon"},
-{"id":3,"name":"Red-tailed hawk","category":"Maroon"},
-{"id":4,"name":"Squirrel, uinta ground","category":"Fuscia"},
-{"id":5,"name":"Finch, common melba","category":"Purple"},
-{"id":6,"name":"Racer, american","category":"Violet"},
-{"id":7,"name":"Hanuman langur","category":"Pink"},
-{"id":8,"name":"Stork, woolly-necked","category":"Pink"},
-{"id":9,"name":"Little blue penguin","category":"Mauv"},
-{"id":10,"name":"Gambel's quail","category":"Aquamarine"},
-{"id":11,"name":"Dove, mourning collared","category":"Turquoise"},
-{"id":12,"name":"Egret, great","category":"Maroon"},
-{"id":13,"name":"Ground monitor (unidentified)","category":"Green"},
-{"id":14,"name":"Peregrine falcon","category":"Indigo"},
-{"id":15,"name":"Burrowing owl","category":"Purple"},
-{"id":16,"name":"Eastern boa constrictor","category":"Maroon"},
-{"id":17,"name":"Wood pigeon","category":"Puce"},
-{"id":18,"name":"Sifaka, verreaux's","category":"Turquoise"},
-{"id":19,"name":"Vulture, king","category":"Aquamarine"},
-{"id":20,"name":"Squirrel, grey-footed","category":"Fuscia"},
-{"id":21,"name":"Vulture, bengal","category":"Khaki"},
-{"id":22,"name":"Royal tern","category":"Mauv"},
-{"id":23,"name":"Bengal vulture","category":"Aquamarine"},
-{"id":24,"name":"Vicuna","category":"Pink"},
-{"id":25,"name":"Greater rhea","category":"Green"}]
+{
+"product":
+[
+  {"id":1,"name":"White-fronted bee-eater","category":"Maroon"},
+{"id":2,"name":"Baboon savanna","category":"Indigo"},
+{"id":3,"name":"Snowy owl","category":"Goldenrod"},
+{"id":4,"name":"Alpaca","category":"Turquoise"},
+{"id":5,"name":"Snake racer","category":"Goldenrod"},
+{"id":6,"name":"Kangaroo ","category":"Mauv"},
+{"id":7,"name":"Teal hottentot","category":"Mauv"},
+{"id":8,"name":"Deer roe","category":"Puce"},
+{"id":9,"name":"Boa malagasy ground","category":"Yellow"},
+{"id":10,"name":"Spotted wood ","category":"Purple"}
+]
+}
